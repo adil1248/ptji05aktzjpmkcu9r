@@ -7,7 +7,7 @@
     <description>Three things every episode: what the health literature actually published this month and whether it holds up, the reasoning underneath one part of a training and nutrition plan, and a plain reading of one set of real numbers — sleep, recovery, training load, adherence — including the weeks they go the wrong way. Evidence and measurements, not advice. Anything that needs a clinician is named as such.</description>
     <language>en-us</language>
     <copyright>The Readouts</copyright>
-    <lastBuildDate>Thu, 03 Sep 2026 14:26:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 07:14:49 +0000</lastBuildDate>
     <generator>rss.py</generator>
     <image>
       <url>https://adil1248.github.io/ptji05aktzjpmkcu9r/cover.jpg</url>
@@ -21,6 +21,21 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine"/></itunes:category>
     <itunes:owner><itunes:name>The Readouts</itunes:name><itunes:email>12261227+adil1248@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>Episode 2 — 2026-09-02 (corrected)</title>
+      <link>https://adil1248.github.io/ptji05aktzjpmkcu9r/</link>
+      <guid isPermaLink="false">the-readouts-2026-09-02-corrected-5e59b080</guid>
+      <pubDate>Fri, 04 Sep 2026 07:14:48 +0000</pubDate>
+      <description>&lt;p&gt;Papers and sources behind this episode.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://doi.org/10.1161/circulationaha.126.082436"&gt;Effects of Evolocumab on Mortality Outcomes in Patients Without Previous Myocardial Infarction or Stroke: A Prespecified Analysis of the VESALIUS-CV Randomized Clinical Trial&lt;/a&gt; — Europe PMC&lt;/li&gt;&lt;li&gt;&lt;a href="https://doi.org/10.1016/j.aohep.2026.102251"&gt;Investigation of non-invasive tests for fibrosis diagnosis and prognostication of events in metabolic dysfunction-associated steatotic liver disease: A prospective study cohort&lt;/a&gt; — Europe PMC&lt;/li&gt;&lt;li&gt;&lt;a href="https://doi.org/10.1007/s44470-026-00159-8"&gt;Smartwatch-based detection of moderate-to-severe and high-risk obstructive sleep apnea&lt;/a&gt; — Europe PMC&lt;/li&gt;&lt;li&gt;&lt;a href="https://doi.org/10.1519/jsc.0000000000005439"&gt;Skeletal Muscles Do Not Compete for Growth: Activating Additional Muscle Mass Does Not Compromise Changes in Muscle Size&lt;/a&gt; — Europe PMC&lt;/li&gt;&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p>Papers and sources behind this episode.</p><ul><li><a href="https://doi.org/10.1161/circulationaha.126.082436">Effects of Evolocumab on Mortality Outcomes in Patients Without Previous Myocardial Infarction or Stroke: A Prespecified Analysis of the VESALIUS-CV Randomized Clinical Trial</a> — Europe PMC</li><li><a href="https://doi.org/10.1016/j.aohep.2026.102251">Investigation of non-invasive tests for fibrosis diagnosis and prognostication of events in metabolic dysfunction-associated steatotic liver disease: A prospective study cohort</a> — Europe PMC</li><li><a href="https://doi.org/10.1007/s44470-026-00159-8">Smartwatch-based detection of moderate-to-severe and high-risk obstructive sleep apnea</a> — Europe PMC</li><li><a href="https://doi.org/10.1519/jsc.0000000000005439">Skeletal Muscles Do Not Compete for Growth: Activating Additional Muscle Mass Does Not Compromise Changes in Muscle Size</a> — Europe PMC</li></ul>]]></content:encoded>
+      <itunes:title>Episode 2 — 2026-09-02 (corrected)</itunes:title>
+      <itunes:summary>&lt;p&gt;Papers and sources behind this episode.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://doi.org/10.1161/circulationaha.126.082436"&gt;Effects of Evolocumab on Mortality Outcomes in Patients Without Previous Myocardial Infarction or Stroke: A Prespecified Analysis of the VESALIUS-CV Randomized Clinical Trial&lt;/a&gt; — Europe PMC&lt;/li&gt;&lt;li&gt;&lt;a href="https://doi.org/10.1016/j.aohep.2026.102251"&gt;Investigation of non-invasive tests for fibrosis diagnosis and prognostication of events in metabolic dysfunction-associated steatotic liver disease: A prospective study cohort&lt;/a&gt; — Europe PMC&lt;/li&gt;&lt;li&gt;&lt;a href="https://doi.org/10.1007/s44470-026-00159-8"&gt;Smartwatch-based detection of moderate-to-severe and high-risk obstructive sleep apnea&lt;/a&gt; — Europe PMC&lt;/li&gt;&lt;li&gt;&lt;a href="https://doi.org/10.1519/jsc.0000000000005439"&gt;Skeletal Muscles Do Not Compete for Growth: Activating Additional Muscle Mass Does Not Compromise Changes in Muscle Size&lt;/a&gt; — Europe PMC&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+      <itunes:author>The Readouts</itunes:author>
+      <itunes:duration>1480</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://adil1248.github.io/ptji05aktzjpmkcu9r/episodes/2026-09-02-corrected.mp3" length="17761984" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Episode 1 — 2026-08-31</title>
       <link>https://adil1248.github.io/ptji05aktzjpmkcu9r/</link>
