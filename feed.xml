@@ -4,10 +4,11 @@
     <title>The Readouts</title>
     <link>https://adil1248.github.io/ptji05aktzjpmkcu9r/</link>
     <atom:link href="https://adil1248.github.io/ptji05aktzjpmkcu9r/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <description>Three things every episode: what the health literature actually published this month and whether it holds up, the reasoning underneath one part of a training and nutrition plan, and a plain reading of one set of real numbers — sleep, recovery, training load, adherence — including the weeks they go the wrong way. Evidence and measurements, not advice. Anything that needs a clinician is named as such.</description>
     <language>en-us</language>
     <copyright>The Readouts</copyright>
-    <lastBuildDate>Sun, 13 Sep 2026 22:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 22:44:45 +0000</lastBuildDate>
     <generator>rss.py</generator>
     <image>
       <url>https://adil1248.github.io/ptji05aktzjpmkcu9r/cover.jpg</url>
@@ -21,6 +22,21 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine"/></itunes:category>
     <itunes:owner><itunes:name>The Readouts</itunes:name><itunes:email>12261227+adil1248@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>Episode 6 — 2026-09-20</title>
+      <link>https://adil1248.github.io/ptji05aktzjpmkcu9r/</link>
+      <guid isPermaLink="false">the-readouts-2026-09-20-fe7cfd38</guid>
+      <pubDate>Sun, 20 Sep 2026 22:34:17 +0000</pubDate>
+      <description>&lt;p&gt;Papers and sources behind this episode.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://onlinelibrary.wiley.com/doi/10.1002/oby.70284?af=R"&gt;Impact of Dietetic Counseling Combined With Digital Tools on Obesity‐Related Indices in Greek Adults: The GATEKEEPER Study&lt;/a&gt; — Obesity (Wiley)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.medpagetoday.com/cardiology/myocardialinfarction/123055"&gt;New Cochrane Review: Cardiac Rehab Should Be an Easy Yes for Way More People&lt;/a&gt; — MedPage Today&lt;/li&gt;&lt;li&gt;&lt;a href="https://peterattiamd.com/can-semaglutide-slow-aging/"&gt;Can semaglutide slow aging?&lt;/a&gt; — Peter Attia&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.medpagetoday.com/obgyn/generalobgyn/123073"&gt;Trial Supports New Method for Easing IUD Insertion Pain&lt;/a&gt; — MedPage Today&lt;/li&gt;&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p>Papers and sources behind this episode.</p><ul><li><a href="https://onlinelibrary.wiley.com/doi/10.1002/oby.70284?af=R">Impact of Dietetic Counseling Combined With Digital Tools on Obesity‐Related Indices in Greek Adults: The GATEKEEPER Study</a> — Obesity (Wiley)</li><li><a href="https://www.medpagetoday.com/cardiology/myocardialinfarction/123055">New Cochrane Review: Cardiac Rehab Should Be an Easy Yes for Way More People</a> — MedPage Today</li><li><a href="https://peterattiamd.com/can-semaglutide-slow-aging/">Can semaglutide slow aging?</a> — Peter Attia</li><li><a href="https://www.medpagetoday.com/obgyn/generalobgyn/123073">Trial Supports New Method for Easing IUD Insertion Pain</a> — MedPage Today</li></ul>]]></content:encoded>
+      <itunes:title>Episode 6 — 2026-09-20</itunes:title>
+      <itunes:summary>&lt;p&gt;Papers and sources behind this episode.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://onlinelibrary.wiley.com/doi/10.1002/oby.70284?af=R"&gt;Impact of Dietetic Counseling Combined With Digital Tools on Obesity‐Related Indices in Greek Adults: The GATEKEEPER Study&lt;/a&gt; — Obesity (Wiley)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.medpagetoday.com/cardiology/myocardialinfarction/123055"&gt;New Cochrane Review: Cardiac Rehab Should Be an Easy Yes for Way More People&lt;/a&gt; — MedPage Today&lt;/li&gt;&lt;li&gt;&lt;a href="https://peterattiamd.com/can-semaglutide-slow-aging/"&gt;Can semaglutide slow aging?&lt;/a&gt; — Peter Attia&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.medpagetoday.com/obgyn/generalobgyn/123073"&gt;Trial Supports New Method for Easing IUD Insertion Pain&lt;/a&gt; — MedPage Today&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+      <itunes:author>The Readouts</itunes:author>
+      <itunes:duration>892</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://adil1248.github.io/ptji05aktzjpmkcu9r/episodes/2026-09-20.mp3" length="10710478" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Episode 5 — 2026-09-13</title>
       <link>https://adil1248.github.io/ptji05aktzjpmkcu9r/</link>
