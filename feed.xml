@@ -8,7 +8,7 @@
     <description>Three things every episode: what the health literature actually published this month and whether it holds up, the reasoning underneath one part of a training and nutrition plan, and a plain reading of one set of real numbers — sleep, recovery, training load, adherence — including the weeks they go the wrong way. Evidence and measurements, not advice. Anything that needs a clinician is named as such.</description>
     <language>en-us</language>
     <copyright>The Readouts</copyright>
-    <lastBuildDate>Sun, 11 Oct 2026 22:37:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 16:06:10 +0000</lastBuildDate>
     <generator>rss.py</generator>
     <image>
       <url>https://adil1248.github.io/ptji05aktzjpmkcu9r/cover.jpg</url>
@@ -22,6 +22,21 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine"/></itunes:category>
     <itunes:owner><itunes:name>The Readouts</itunes:name><itunes:email>12261227+adil1248@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>Episode 10 — 2026-10-18</title>
+      <link>https://adil1248.github.io/ptji05aktzjpmkcu9r/</link>
+      <guid isPermaLink="false">the-readouts-2026-10-18-9029a2e1</guid>
+      <pubDate>Mon, 19 Oct 2026 01:33:15 +0000</pubDate>
+      <description>&lt;p&gt;Papers and sources behind this episode.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://doi.org/10.1080/07853890.2026.2739735"&gt;Routine health examination indicators for fatty liver disease risk stratification in adults with thyroid dysfunction: a cross-sectional study of 46,311 individuals&lt;/a&gt; — Europe PMC&lt;/li&gt;&lt;li&gt;&lt;a href="https://doi.org/10.1097/fjc.0000000000001887"&gt;Targeting Lipoprotein(a) in Cardiovascular Disease: Emerging Therapies and Clinical Implications&lt;/a&gt; — Europe PMC&lt;/li&gt;&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p>Papers and sources behind this episode.</p><ul><li><a href="https://doi.org/10.1080/07853890.2026.2739735">Routine health examination indicators for fatty liver disease risk stratification in adults with thyroid dysfunction: a cross-sectional study of 46,311 individuals</a> — Europe PMC</li><li><a href="https://doi.org/10.1097/fjc.0000000000001887">Targeting Lipoprotein(a) in Cardiovascular Disease: Emerging Therapies and Clinical Implications</a> — Europe PMC</li></ul>]]></content:encoded>
+      <itunes:title>Episode 10 — 2026-10-18</itunes:title>
+      <itunes:summary>&lt;p&gt;Papers and sources behind this episode.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://doi.org/10.1080/07853890.2026.2739735"&gt;Routine health examination indicators for fatty liver disease risk stratification in adults with thyroid dysfunction: a cross-sectional study of 46,311 individuals&lt;/a&gt; — Europe PMC&lt;/li&gt;&lt;li&gt;&lt;a href="https://doi.org/10.1097/fjc.0000000000001887"&gt;Targeting Lipoprotein(a) in Cardiovascular Disease: Emerging Therapies and Clinical Implications&lt;/a&gt; — Europe PMC&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+      <itunes:author>The Readouts</itunes:author>
+      <itunes:duration>760</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://adil1248.github.io/ptji05aktzjpmkcu9r/episodes/2026-10-18.mp3" length="9132161" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Episode 9 — 2026-10-11</title>
       <link>https://adil1248.github.io/ptji05aktzjpmkcu9r/</link>
